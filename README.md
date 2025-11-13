@@ -13,6 +13,12 @@ hosting at:
 http://localhost:5173/
 ```
 
+
+
+https://github.com/user-attachments/assets/e2ceb034-dade-4a3c-9c48-9f647ffe99d2
+
+
+
 Then upload the `hand-gesture-example copy.json` file and play around
 
 ## Core Features
