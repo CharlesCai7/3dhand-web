@@ -14,12 +14,12 @@ http://localhost:5173/
 ```
 
 
-
-https://github.com/user-attachments/assets/e2ceb034-dade-4a3c-9c48-9f647ffe99d2
-
-
-
 Then upload the `hand-gesture-example copy.json` file and play around
+
+
+https://github.com/user-attachments/assets/c14beb7c-f518-46fa-93dc-8de3d2dbea05
+
+
 
 ## Core Features
 - Drag & drop or click to upload JSON
